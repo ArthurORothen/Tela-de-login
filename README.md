@@ -1,4 +1,4 @@
-🔐 Music Portal Login
+🔐 Tela de Login
 
 Uma interface de autenticação dinâmica desenvolvida para um portal musical. O projeto foca em validação de formulários e design responsivo utilizando CSS moderno (Flexbox e Gradients).
 
